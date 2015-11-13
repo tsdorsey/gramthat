@@ -38,5 +38,8 @@ Icon?
 /pids
 *.sock
 
+# private data.
+.env
+
 # ZSH Cake plugin cache
 /.cake_task_cache
